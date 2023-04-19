@@ -1,0 +1,6 @@
+
+.git/
+.vscode/
+
+*.~lock*
+.~lock*
